@@ -12,3 +12,5 @@ Récemment diplomée 👩‍🎓 Developpeuse web avec Openclassrooms, j'ai comm
 *  SQL & NoSQL / SEQUELIZE
 *  VSCODE / GIT / PHPMYADMIN
 
+#### Mon CV en Ligne 
+https://estelle-rose.fr
